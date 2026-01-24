@@ -259,8 +259,4 @@ For help and questions:
 
 If you find this project helpful, please give it a star! ⭐
 
----
 
-**Made with ❤️ for developers and designers**
-
-[Demo](https://portfolio-desktop-os-demo.vercel.app) • [GitHub](https://github.com/your-username/portfolio-desktop-os) • [Twitter](https://twitter.com/your-handle)
